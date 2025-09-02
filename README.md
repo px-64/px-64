@@ -1,1 +1,3 @@
 Hello! I make tools to make it easy to get into web development. Formerly known as @3x. (Pro tip: don't choose a username that is [mentioned dozens of times a day across GitHub](https://developer.apple.com/design/human-interface-guidelines/images#Resolution)!)
+
+To learn more about my projects, check out xz/new.css and xz/fonts.
